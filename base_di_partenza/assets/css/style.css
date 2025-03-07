@@ -88,9 +88,10 @@ main ol {
   display: flex;
   align-items: center;
   gap: 10px;
+}
+.space-between {
   justify-content: space-between;
 }
-
 .list-img-circle {
   border-radius: 100%;
 }
